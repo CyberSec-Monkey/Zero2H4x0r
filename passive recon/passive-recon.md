@@ -1,8 +1,4 @@
-<!DOCTYPE html  PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'  'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'><html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<title>Passive recon</title>
-</head><body>Passive recon (no active scanning)<br/>
+**Passive recon (no active scanning)**<br/>
 <br/>
 (not covered in course) physical/social - go onsite, social engineering. Photos, drone footage.<br/>
 - location, images<br/>
@@ -120,4 +116,3 @@ enter names into email format<br/>
 get all the info on the ppl<br/>
 <br/>
 <br/>
-</body></html>
