@@ -1,8 +1,4 @@
-<!DOCTYPE html  PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'  'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'><html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<title>Scan enum Kioptrix lvl 1</title>
-</head><body>Obtain from www.vulnhub.com<br/>
+Obtain VM from www.vulnhub.com<br/>
 <br/>
 a great resourecs for vuln VMs<br/>
 <br/>
@@ -242,4 +238,3 @@ ALWAYS verify, do not take scan as gossple<br/>
 <br/>
 <br/>
 <br/>
-</body></html>
