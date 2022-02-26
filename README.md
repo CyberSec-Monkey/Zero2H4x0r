@@ -64,3 +64,23 @@
     * [MIMIKATZ - Golden Ticket](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/active%20directory/04.%20attacking%20ad%20post%20compromise/09.%20mimikatz%20-%20golden%20ticket)
     
     * [Additional Reading](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/active%20directory/04.%20attacking%20ad%20post%20compromise/10.%20additional%20reading)
+
+[Post Exploitation](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation)
+
+* [File Transfers](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/01.%20file%20transfers)
+* [Maintain Acess](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/02.%20maintaining%20access)
+* [Pivoting](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
+* [Cleaning Up](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
+
+[WebApp Enumeration (Comming Soon)]
+
+[WebApp Top 10 (Comming Soon)]
+
+[Wireless Pen Testing](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/wireless%20pentesting)
+
+[Legal Docs and Reports](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports)
+
+* [Legal Docs](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports/legal%20docs)
+
+* [Pen Test Reports](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports/pentest%20report)
+
