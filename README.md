@@ -1,11 +1,12 @@
 # Zero2H4x0r
 
-This is not intended to be a detaile guide on the information preseted by Heath Adams as part of the Practical Ethical Hacking - The Complete Course.
+This is not intended to be a detailed guide on the information presented by Heath Adams during the Practical Ethical Hacking Course.
 
-This is simply a collection of my notes and thoughts.
+This is simply a collection of my notes and thoughts on my journey to obaint my PNPT.
 
 They are not perfect, but if you find it useful than I'm glad it helped.
 
+_A Monkey with a computer_
 
 [Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
 
