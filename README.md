@@ -1,7 +1,13 @@
 # Zero2H4x0r
 
+This is not intended to be a detaile guide on the information preseted by Heath Adams as part of the Practical Ethical Hacking - The Complete Course.
 
-[##Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
+This is simply a collection of my notes and thoughts.
+
+They are not perfect, but if you find it useful than I'm glad it helped.
+
+
+[Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
 
 [Scanning/Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/sanning%20enumeration/scan%20enum%20kioptrix%20lvl%201)
 
