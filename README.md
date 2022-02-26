@@ -1,17 +1,17 @@
 # Zero2H4x0r
 
 
-##[Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
+[##Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
 
-##[Scanning/Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/sanning%20enumeration/scan%20enum%20kioptrix%20lvl%201)
+[Scanning/Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/sanning%20enumeration/scan%20enum%20kioptrix%20lvl%201)
 
-##[Exploitation Intro](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro)
+[Exploitation Intro](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro)
 
-### * [Expliot SMB](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/exploit%20smb)
+* [Expliot SMB](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/exploit%20smb)
 
-### * [Exploit HTTP/S](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/exploit%20HTTP%20HTTPS)
+* [Exploit HTTP/S](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/exploit%20HTTP%20HTTPS)
 
-### * [Exploit SSH](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/exploit%20SSH)
+* [Exploit SSH](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/exploit%20SSH)
 
 * [Password Spray Credential Stuffing](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/exploitation%20intro/Password%20Spray%20Cred%20Stuffing)
 
@@ -85,9 +85,9 @@
 * [Pen Test Reports](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports/pentest%20report)
 
 
-##[Priviledge Esc - Linux (Comming Soon)]
+[Priviledge Esc - Linux (Comming Soon)]
 
-##[Priviledge Esc - Windows (Comming Soon)]
+[Priviledge Esc - Windows (Comming Soon)]
 
 
 
