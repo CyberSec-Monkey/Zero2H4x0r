@@ -79,9 +79,11 @@ _A Monkey with a computer_
 * [Pivoting](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
 * [Cleaning Up](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
 
-[WebApp Enumeration (Comming Soon)]
+[WebApp Exploitation (Comming soon)](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps)
 
-[WebApp Top 10 (Comming Soon)]
+* [WebApp Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/enumeration)
+
+* [WebApp Top 10 (Comming Soon)]
 
 [Wireless Pen Testing](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/wireless%20pentesting)
 
