@@ -75,8 +75,11 @@ _A Monkey with a computer_
 [Post Exploitation](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation)
 
 * [File Transfers](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/01.%20file%20transfers)
+
 * [Maintain Acess](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/02.%20maintaining%20access)
+
 * [Pivoting](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
+
 * [Cleaning Up](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
 
 [WebApp Exploitation (Comming soon)](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps)
