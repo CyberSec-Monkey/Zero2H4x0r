@@ -97,9 +97,9 @@ _A Monkey with a computer_
 * [Pen Test Reports](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports/pentest%20report)
 
 
-[Priviledge Esc - Linux (Comming Soon)]
+[Priviledge Esc - Linux (Comming Soon - course to yet to be compltete)]
 
-[Priviledge Esc - Windows (Comming Soon)]
+[Priviledge Esc - Windows (Comming Soon course to yet to be compltete)]
 
 
 
