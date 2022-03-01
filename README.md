@@ -103,5 +103,8 @@ _A Monkey with a computer_
 
 
 
+[Other Reports and Write-ups](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Other%20Reports%20and%20Write-ups)
+
+
 
 
