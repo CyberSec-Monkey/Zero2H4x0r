@@ -86,7 +86,29 @@ _A Monkey with a computer_
 
 * [WebApp Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/enumeration)
 
-* [WebApp Top 10 (Comming Soon)]
+* [WebApp Top 10](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps)
+   
+   * [Introduction](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/00.%20introduction)
+   
+   * [SQL Injection](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/01.%20sql%20injection)
+   
+   * [Broken Authentication](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/02.%20broken%20authentication)
+   
+   * [Sensitive Data Exposure](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/03.%20sensitive%20data%20exposure)
+   
+   * [XML External Entities (XXE)](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/04.%20xml%20external%20entities%20(xxe))
+   
+   * [Broken Access Control](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/05.%20broken%20access%20control)
+   
+   * [Cross-Site Scripting (XSS)](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/06.%20cross-site%20scripting%20(xss))
+   
+   * [Insecure Deserialisation](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/07.%20insecure%20deserialisation)
+   
+   * [Security Missconfiguration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/08.%20security%20missconfiguration)
+   
+   * [Using Components with Known Vulnerabilites](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/09.%20using%20components%20with%20known%20vulnerabilit)
+   
+   * [Insufficient Logging and Monitoring](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/top%2010%20webapp%20vulns/10.%20insufficient%20logging%20and%20monitoring)
 
 [Wireless Pen Testing](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/wireless%20pentesting)
 
