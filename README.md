@@ -82,7 +82,7 @@ _A Monkey with a computer_
 
 * [Cleaning Up](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/post%20expolitation/03.%20pivoting)
 
-[WebApp Exploitation (Comming soon)](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps)
+[WebApp Exploitation](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps)
 
 * [WebApp Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/webapps/enumeration)
 
