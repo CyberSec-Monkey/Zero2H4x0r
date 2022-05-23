@@ -3,7 +3,7 @@
 <br/>
 **OVERVIEW**
 <br/>
-like a phone book. Book is filled with obejcts. IE printers, computers users etc<br/>
+like a phone book. Book is filled with objects. IE printers, computers users etc<br/>
 <br/>
 Authenticates useing Kerberos tickets<br/>
 Non windows devices can also authenticate to Acitve Directory. IE Firewall.<br/>
