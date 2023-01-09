@@ -128,5 +128,12 @@ _A Monkey with a computer_
 [Other Reports and Write-ups](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Other%20Reports%20and%20Write-ups)
 
 
+_Useful links_
+
+* [Payload all the things by swisskyrepo](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+
+* [Reverse Shell cheat sheet by Pentest Monkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+
+* [SecLists by danielmiessler](https://github.com/danielmiessler/SecLists)
 
 
