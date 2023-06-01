@@ -50,7 +50,7 @@ Payload options (windows/meterpreter/reverse_tcp):<br/>
  Name   Current Setting Required Description<br/>
  ----   --------------- -------- -----------<br/>
  EXITFUNC thread      yes    Exit technique (Accepted: '', seh, thread, process, none)<br/>
- LHOST   192.168.247.128 yes    The listen address (an interface may be specified)<br/>
+ LHOST   <IP> yes    The listen address (an interface may be specified)<br/>
  LPORT   4444       yes    The listen port<br/>
 <br/>
 <br/>
