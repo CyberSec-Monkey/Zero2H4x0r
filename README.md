@@ -177,7 +177,7 @@ _A Monkey with a computer_
 
 * [Docker](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/docker/docker)
 
-### *[Reources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
+### * [Linux Priv Esc Reources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
 
 
 ## [Priviledge Esc - Windows (Comming Soon course to yet to be compltete)]
