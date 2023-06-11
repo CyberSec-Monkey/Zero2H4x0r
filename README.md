@@ -180,7 +180,65 @@ _A Monkey with a computer_
 ### * [Linux Priv Esc Reources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
 
 
-## [Priviledge Esc - Windows (Comming Soon course to yet to be compltete)]
+## [Priviledge Esc - Windows](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows)
+
+* [Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows/01.%20Enumeration)
+
+   * [System Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/01.%20Enumeration/01.%20System%20Enumeration.md)
+   
+   * [User Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/01.%20Enumeration/02.%20User%20Enumeration.md)
+   
+   * [Network Ennumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/01.%20Enumeration/03.%20Network%20Enumeration.md)
+   
+   * [Password Hunting](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/01.%20Enumeration/04.%20Password%20Hunting.md)
+   
+   * [AV Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/01.%20Enumeration/05.%20AV%20Enumeration.md)
+   
+   * [Automated Enumeration Tools](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/01.%20Enumeration/06.%20Automated%20Enumeration%20Tools.md)
+
+* [Escalation Paths - General](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General)
+
+   * [Kernel Exploitation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General/01.%20Kernel%20Escalation.md)
+   
+   * [Passwords and Port Forwarding](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General/02.%20Passwords%20and%20Port%20Forwarding.md)
+   
+   * [Windows Sub-System for Linux](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General/03.%20Windows%20sub-system%20for%20Linux.md)
+   
+   * [Impersonation and Potato Attacks](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General/04.%20Impersonation%20and%20Potato%20Attacks.md)
+   
+   * [Getsystem](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General/05.%20Getsystem.md)
+   
+   * [Runas](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/02.%20Escalation%20Paths%20-%20General/06.%20Runas.md)
+
+* [Escalation Paths - THM](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM)
+
+   * [Registry Escalation - Autorun](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/01.%20Registry%20Escalation%20-%20Autorun.md)
+   
+   * [Registry Escalation - Allwaysinstallelevated](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/02.%20Registry%20Escalation%20-%20Allwaysinstallelevated.md)
+   
+   * [Registry Escalation - regsvc ACL](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/03.%20Registry%20Escalation%20-%20regsvc%20ACL.md)
+   
+   * [Executable Files Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/04.%20Executable%20Files%20Escalation.md)
+   
+   * [Startup Applications Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/05.%20Startup%20Applications%20Escalation.md)
+   
+   * [DLL Hijacking Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/06.%20DLL%20Hijacking%20Escalation.md)
+   
+   * [Service Permissions Escalation - Binary Paths](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/07.%20Service%20Permissions%20Escalation%20-%20Binary%20Paths.md)
+   
+   * [Service Permissions Escalation - Unquoted Service Paths](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/08.%20Service%20Permissions%20Escalation%20-%20Unquoted%20Service%20Paths.md)
+   
+   * [Potato Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/09.%20Potato%20Escalation%20-%20Hot%20Potato.md)
+   
+   * [Password Mining Escalation - Config Files](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/10.%20Password%20Mining%20Escalation%20-%20Config%20FIles.md)
+   
+   * [Password Mining Escalation - Memory](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/11.%20Password%20Mining%20Escalation%20-%20Memory.md)
+   
+   * [Kernel Exploit Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/12.%20Kernel%20Exploit%20Escalation.md)
+   
+   * [CVE-2019-1388 Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/13.%20CVE-2019-1388%20Escalation.md)
+
+### * [Windows Priv Esc Reources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/00.%20Windows-Privilege-Escalation-Resources.md)
 
 ## [OSINT (Comming Soon course to yet to be compltete)]
 
