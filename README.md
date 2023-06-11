@@ -2,7 +2,7 @@
 
 This is not intended to be a detailed guide on the information presented by Heath Adams during the Practical Ethical Hacking Course.
 
-This is simply a collection of my notes and thoughts on my journey to obaint my PNPT.
+This is simply a collection of my notes and thoughts on my journey to obain my PNPT.
 
 They are not perfect, but if you find it useful than I'm glad it helped.
 
@@ -119,9 +119,64 @@ _A Monkey with a computer_
 * [Pen Test Reports](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports/pentest%20report)
 
 
-[Priviledge Esc - Linux (Comming Soon - course to yet to be compltete)]
+[Priviledge Esc - Linux](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux)
+
+* [Initial Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/initial%20enumeration/intial%20enumeration)
+
+* [Initial Enumeration - Automated](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/initial%20enumeration/enumeration%20-%20automated%20tools)
+
+* [Kernal Exploitation](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/kernal%20exploitation/kernal%20exploit)
+
+* [Passwd & File Permissions](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/passwd%20%20file%20permissions)
+
+   * [Stored Passwords](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/passwd%20%20file%20permissions/stored%20passwords)
+   
+   * [Weak File Permissions](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/passwd%20%20file%20permissions/weak%20file%20permissions)
+   
+   * [SSH Keys](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/passwd%20%20file%20permissions/weak%20file%20permissions)
+
+* [SUDO](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/sudo)
+
+   * [SUDO Shell Escaping](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/sudo/sudo%20shell%20escaping)
+   
+   * [Intended Functionality](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/sudo/intended%20functionality)
+   
+   * [LD_Preload](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/sudo/ld_preload)
+   
+   * [CVE-2019-14287](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/sudo/cve-2019-14287)
+   
+   * [CVE-2019-18634](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/sudo/cve-2019-18634)
+
+* [SUID](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/suid)
+
+   * [SUID](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/suid/suid)
+   
+   * [Shared Object Injection](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/suid/shared%20object%20injection)
+   
+   * [Binary Symlinks](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/suid/binary%20symlinks)
+   
+   * [Environmental Variables](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/suid/envionrmental%20variables)
+
+* [Capabilites](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/capabilities/capabilites)
+
+* [Sheduled Tasks](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/scheduled%20tasks)
+
+   * [Cron Overview](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/scheduled%20tasks/cron%20overview)
+   
+   * [Cron Paths](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/scheduled%20tasks/cron%20paths)
+   
+   * [Cron Wildcards](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/scheduled%20tasks/cron%20wildcards)
+   
+   * [Cron File Overwrites](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/scheduled%20tasks/cron%20file%20overwrites)
+
+* [NFS](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/nfs/nfs)
+
+* [Docker](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/docker/docker)
+
 
 [Priviledge Esc - Windows (Comming Soon course to yet to be compltete)]
+
+[OSINT (Comming Soon course to yet to be compltete)]
 
 
 
