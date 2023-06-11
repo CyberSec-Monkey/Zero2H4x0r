@@ -8,7 +8,7 @@ They are not perfect, but if you find it useful than I'm glad it helped.
 
 _A Monkey with a computer_
 
-# Intro to Ethical Hacking
+## Intro to Ethical Hacking
 
 [Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
 
@@ -123,7 +123,7 @@ _A Monkey with a computer_
 
 
 
-# [Priviledge Esc - Linux](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux)
+## [Priviledge Esc - Linux](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux)
 
 * [Initial Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/initial%20enumeration/intial%20enumeration)
 
@@ -178,13 +178,13 @@ _A Monkey with a computer_
 * [Docker](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/docker/docker)
 
 
-# [Priviledge Esc - Windows (Comming Soon course to yet to be compltete)]
+## [Priviledge Esc - Windows (Comming Soon course to yet to be compltete)]
 
-# [OSINT (Comming Soon course to yet to be compltete)]
+## [OSINT (Comming Soon course to yet to be compltete)]
 
 
 
-# [Other Reports and Write-ups](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Other%20Reports%20and%20Write-ups)
+## [Other Reports and Write-ups](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Other%20Reports%20and%20Write-ups)
 
 
 _Useful links_
