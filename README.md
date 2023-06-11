@@ -123,7 +123,7 @@ _A Monkey with a computer_
 
 
 
-## [Priviledge Esc - Linux](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux)
+## [Priviledge Esc - Linux]
 
 * [Initial Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/initial%20enumeration/intial%20enumeration)
 
@@ -180,7 +180,7 @@ _A Monkey with a computer_
 ### * [Linux Priv Esc Resources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
 
 
-## [Priviledge Esc - Windows](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows)
+## [Priviledge Esc - Windows]
 
 * [Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows/01.%20Enumeration)
 
