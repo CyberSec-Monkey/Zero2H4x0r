@@ -177,7 +177,7 @@ _A Monkey with a computer_
 
 * [Docker](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/docker/docker)
 
-### * [Linux Priv Esc Reources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
+### * [Linux Priv Esc Resources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
 
 
 ## [Priviledge Esc - Windows](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows)
@@ -238,7 +238,7 @@ _A Monkey with a computer_
    
    * [CVE-2019-1388 Escalation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/03.%20Escalation%20Paths%20-%20THM/13.%20CVE-2019-1388%20Escalation.md)
 
-### * [Windows Priv Esc Reources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/00.%20Windows-Privilege-Escalation-Resources.md)
+### * [Windows Priv Esc Resources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/00.%20Windows-Privilege-Escalation-Resources.md)
 
 ## [OSINT (Comming Soon course to yet to be compltete)]
 
