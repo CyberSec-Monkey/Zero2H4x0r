@@ -121,7 +121,7 @@ _A Monkey with a computer_
 * [Pen Test Reports](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/legal%20documentation%20and%20reports/pentest%20report)
 
 
-
+-----------------------------------------------------------------------------------------
 
 ## Priviledge Esc - Linux
 
@@ -179,6 +179,7 @@ _A Monkey with a computer_
 
 ### * [Linux Priv Esc Resources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Privilage%20Escalation%20-%20Linux/Linux-Privilege-Escalation-Resources.md)
 
+------------------------------------------------------------------------------------------------------------------------
 
 ## Priviledge Esc - Windows
 
@@ -240,9 +241,93 @@ _A Monkey with a computer_
 
 ### * [Windows Priv Esc Resources](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/Priv_Esc_Windows/00.%20Windows-Privilege-Escalation-Resources.md)
 
-## [OSINT (Comming Soon course to yet to be compltete)]
+--------------------------------------------------------------------------------
 
+## [OSINT (In Progress)]
 
+* [OSINT Overview]
+
+* [Sock Puppets]
+
+* [Search Engine Operators]
+
+* [Image OSINT]
+
+   * [Reverse Image Searching]
+
+   * [EXIF Data]
+
+   * [Physical Location OSINT]
+
+   * [Where in the world challange]
+
+* [Discovering Email Addresses]
+
+* [Password OSINT]
+
+   * [Hunting Breached Passwords]
+
+* [Username OSINT]
+
+* [People OSINT]
+
+   * [Searching for People]
+
+   * [Voter Records]
+
+   * [Hunting Phone Numbers]
+
+   * [Discovering Birthdates]
+
+   * [Searching for Resumes]
+
+* [Social Media OSINT]
+
+   * [Twitter OSINT]
+
+   * [Facebook OSINT]
+
+   * [Instagram OSINT]
+
+   * [Snapchat OSINT]
+
+   * [Reddit OSINT]
+
+   * [LinkedIn OSINT]
+
+   * [TikTok OSINT]
+
+* [Website OSINT]
+
+* [Buisness OSINT]
+
+* [Wireless OSINT]
+
+* [OSINT Lab Build]
+
+* [OSINT Tools]
+
+   * [Image and Location OSINT]
+
+   * [Emails and Breached Data]
+
+   * [Username and Account OSINT]
+
+   * [Phone Number OSINT]
+
+   * [Social Media OSINT]
+
+   * [Website OSINT]
+
+   * [OSINT Frameworks]
+
+   * [Other Tools]
+
+* [OSINT Automation Foundations - Automating Website OSINT]
+
+* [Writing an OSINT Report]
+
+------------------------------------------------------------------------
 
 ## [Other Reports and Write-ups](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Other%20Reports%20and%20Write-ups)
 
