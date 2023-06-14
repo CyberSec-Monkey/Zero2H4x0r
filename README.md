@@ -2,9 +2,10 @@
 
 This is not intended to be a detailed guide on the information presented by Heath Adams during the Practical Ethical Hacking Course.
 
-This is simply a collection of my notes and thoughts on my journey to obain my PNPT.
+This is simply a collection of my notes and thoughts on my journey to obain my PNPT. 
+I primarily keep my notes stored locally in my Obsidian vault and push them to here in batches.
 
-They are not perfect, but if you find it useful than I'm glad it helped.
+These notes are not perfect, but if you find it useful than I'm happy it helped.
 
 _A Monkey with a computer_
 
