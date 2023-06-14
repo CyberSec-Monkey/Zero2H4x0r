@@ -8,7 +8,7 @@ They are not perfect, but if you find it useful than I'm glad it helped.
 
 _A Monkey with a computer_
 
-## Intro to Ethical Hacking
+## Intro to Ethical Hacking - TCM Security
 
 [Passive Recon](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/passive%20recon)
 
@@ -123,7 +123,7 @@ _A Monkey with a computer_
 
 -----------------------------------------------------------------------------------------
 
-## Priviledge Esc - Linux
+## Priviledge Esc - Linux - TCM Security
 
 * [Initial Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Privilage%20Escalation%20-%20Linux/initial%20enumeration/intial%20enumeration)
 
@@ -181,7 +181,7 @@ _A Monkey with a computer_
 
 ------------------------------------------------------------------------------------------------------------------------
 
-## Priviledge Esc - Windows
+## Priviledge Esc - Windows - TCM Security
 
 * [Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Priv_Esc_Windows/01.%20Enumeration)
 
@@ -243,7 +243,7 @@ _A Monkey with a computer_
 
 --------------------------------------------------------------------------------
 
-## [OSINT (In Progress)]
+## OSINT (In Progress) - TCM Security
 
 * [OSINT Overview]
 
@@ -328,6 +328,25 @@ _A Monkey with a computer_
 * [Writing an OSINT Report]
 
 ------------------------------------------------------------------------
+
+## External Pentest Playbook (Comming Soon) - TCM Security
+
+-----------------------------------------------
+
+## PNPT Certification PASS (Comming Soon Q3 2023) - TCM Security
+
+----------------------------------------------
+## Additonal Course backlog
+
+## Movement, Pivoting and Persistance (Comming Soon) - TCM Security
+
+## Practical Web Application Secuirty and Testing (Comming Soon) - TCM Security
+
+## Mobile Applicaiton Penetration Testing (Comming Soon) - TCM Security
+
+## Python 101 & 102 For Hackers (Comming Soon) - TCM Security
+
+--------------------------------------------------
 
 ## [Other Reports and Write-ups](https://github.com/CyberSec-Monkey/Zero2H4x0r/tree/main/Other%20Reports%20and%20Write-ups)
 
