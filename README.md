@@ -333,18 +333,18 @@ _A Monkey with a computer_
 
 -----------------------------------------------
 
-## PNPT Certification PASS (Comming Soon Q3 2023) - TCM Security
+### PNPT Certification PASS (Comming Soon Q3 2023) - TCM Security
 
 ----------------------------------------------
-## Additonal Course backlog
+### Additonal Course backlog
 
-## Movement, Pivoting and Persistance (Comming Soon) - TCM Security
+### Movement, Pivoting and Persistance (Comming Soon) - TCM Security
 
-## Practical Web Application Secuirty and Testing (Comming Soon) - TCM Security
+### Practical Web Application Secuirty and Testing (Comming Soon) - TCM Security
 
-## Mobile Applicaiton Penetration Testing (Comming Soon) - TCM Security
+### Mobile Applicaiton Penetration Testing (Comming Soon) - TCM Security
 
-## Python 101 & 102 For Hackers (Comming Soon) - TCM Security
+### Python 101 & 102 For Hackers (Comming Soon) - TCM Security
 
 --------------------------------------------------
 
