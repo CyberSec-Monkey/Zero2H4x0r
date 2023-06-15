@@ -1,78 +1,61 @@
-**Active Directory Theory**
+# Active Directory Theory
 
-<br/>
 **OVERVIEW**
-<br/>
-like a phone book. Book is filled with objects. IE printers, computers users etc<br/>
-<br/>
-Authenticates useing Kerberos tickets<br/>
-Non windows devices can also authenticate to Acitve Directory. IE Firewall.<br/>
-<br/>
-Allows multiple devices/services to be accessed by a user using the same username and password. genereally entered once during intial log on.<br/>
-<br/>
-Most commonly used identiy management in the world.<br/>
-<br/>
-95% Fortune 1000 companies implement AD.<br/>
-<br/>
-Can be exploited by abusing featuyres as opposed to patchable exploits.<br/>
-<br/>
-<br/>
-<br/>
-PHYSICAL AD COMPONENETS<br/>
-<br/>
-Active Directory Domain Services<br/>
-<br/>
-Domain controller <br/>
-- a server hosting the the copy of the AD DS directoryu store<br/>
-- provides authenticationa nd authorisation services<br/>
-- replicate updates to other domain cotrollers in domain and forest<br/>
-- allow admin access to manage user accounts and network resources<br/>
-<br/>
-<br/>
-During real world - dont just focus on compromosing domain. Client will want a complete picture<br/>
-<br/>
-AD DS Data store<br/>
-- contains teh DB files and process that sotre and amnage directory infomraotin for users, services and applicaitons<br/>
-- consists of the Ntds.dit file<br/>
-- defualt stored in %SystemRoot%\NTDS folder on all domain controllers<br/>
-- Is accessible only thorugh the comain cotroller processes and protocols<br/>
-<br/>
-<br/>
-LOGICAL AD COMPONENETS<br/>
-<br/>
-AD DS Schema<br/>
-<br/>
-Defines the rules for object creation<br/>
-<br/>
-Domains<br/>
-<br/>
-Used to group and manage objects<br/>
-- like a domain controller.. smaller<br/>
-<br/>
-Tress<br/>
-A heirachy of domains in AD DS<br/>
-- Shares namespace<br/>
-- shares trust<br/>
-<br/>
-Forest<br/>
-a copllection of one or more domain trees<br/>
-<br/>
-<br/>
-Organizational Units (Ous)<br/>
-Active directory containers that can contain users, groups, compuiters and other Ous<br/>
-<br/>
-Trust<br/>
-method for users to gain acess to resources in another domain<br/>
-- Directional Trust flow from trusting domain to trusted domain<br/>
-- Transititve trust relationship is extended beyond the 2 domain trust to include other trusted domains (will trust everything the otehr domain trusts)<br/>
-<br/>
-Objects<br/>
-User - Enables network access to user<br/>
-InetOrgPerson - similar to user accouns. Used for compatibility with other directory servies<br/>
-Contacts - used to primarily assign e-mail addresses to external users. Does not enable netowrk access<br/>
-Groups - Used to simplify the admin of access control<br/>
-Computers - Enable authentication and auditing of computers acces to resources<br/>
-Printers - Used to simplify the process of locating and connecting to printers<br/>
-Share folders - Enable users to search for shared folders based on properties<br/>
-<br/>
-<br/>
+Active Directory (AD) functions as a centralized directory service, similar to a phone book, containing various objects such as printers, computers, and users. Here are some key points to understand:
+
+- AD authenticates users through Kerberos tickets.
+- It enables non-Windows devices, like firewalls, to authenticate to the Active Directory.
+- Users can access multiple devices/services using the same username and password, which are entered once during initial login.
+- AD is the most widely used identity management system globally, with around 95% of Fortune 1000 companies implementing it.
+- Exploitation of AD often involves abusing its features rather than relying on patchable vulnerabilities.
+
+## PHYSICAL AD COMPONENTS
+
+### Active Directory Domain Services
+
+Domain Controller:
+- A server that hosts a copy of the AD DS directory store.
+- Provides authentication and authorization services.
+- Replicates updates to other domain controllers in the domain and forest.
+- Allows administrators to manage user accounts and network resources.
+
+AD DS Data Store:
+- Consists of database files and processes that store and manage directory information for users, services, and applications.
+- The primary database file is called Ntds.dit and is stored in the %SystemRoot%\NTDS folder on domain controllers.
+- Access to the data store is restricted to domain controller processes and protocols.
+
+## LOGICAL AD COMPONENTS
+
+### AD DS Schema
+
+The AD DS Schema defines the rules for creating objects within the Active Directory.
+
+### Domains
+
+Domains are used to group and manage objects within the Active Directory. They provide administrative boundaries and security boundaries. A domain controller manages each domain.
+
+### Trees
+
+Trees represent a hierarchy of domains within the Active Directory. Domains within a tree share a common namespace and trust relationship.
+
+### Forest
+
+A forest is a collection of one or more domain trees in the Active Directory. It represents the top-level structure of the AD and provides a security boundary.
+
+### Organizational Units (OUs)
+
+Organizational Units (OUs) are containers within the Active Directory that organize and manage objects such as users, groups, computers, and other OUs. OUs help in applying Group Policies and delegating administrative control.
+
+### Trust
+
+Trust is a method for users to gain access to resources in another domain. It establishes a relationship between the trusting domain and the trusted domain. Trust relationships can be transitive, allowing access across multiple trusted domains.
+
+### Objects
+
+- User: Represents a user account and enables network access for users.
+- InetOrgPerson: Similar to user accounts, used for compatibility with other directory services.
+- Contacts: Primarily used to assign email addresses to external users, without enabling network access.
+- Groups: Used to simplify the administration of access control by grouping users or other objects together.
+- Computers: Enable authentication and auditing of computer access to resources.
+- Printers: Used to simplify the process of locating and connecting to printers.
+- Shared Folders: Enable users to search for shared folders based on properties.
