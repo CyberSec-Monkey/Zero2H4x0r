@@ -330,7 +330,7 @@ _A Monkey with a computer_
 
 ------------------------------------------------------------------------
 
-## External Pentest Playbook (Comming Soon) - TCM Security
+## External Pentest Playbook (In Progress) - TCM Security
 
 -----------------------------------------------
 
