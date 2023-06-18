@@ -246,91 +246,91 @@ _A Monkey with a computer_
 
 ## OSINT (In Progress) - TCM Security
 
-* [OSINT Overview]
+* [OSINT Overview](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/01.%20OSINT%20Overview.md)
 
-* [Sock Puppets]
+* [Sock Puppets](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/02.%20Sock%20Puppets.md)
 
-* [Search Engine Operators]
+* [Search Engine Operators](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/03.%20Search%20Engine%20Operators.md)
 
 * [Image OSINT]
 
-   * [Reverse Image Searching]
+   * [Reverse Image Searching](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/04.%20Image%20OSINT%20-%20Reverse%20Image%20Search.md)
 
-   * [EXIF Data]
+   * [EXIF Data](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/05.%20Image%20OSINT%20-%20EXIF%20Data.md)
 
-   * [Physical Location OSINT]
+   * [Physical Location OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/06.%20Image%20OSINT%20-%20Physical%20Location%20OSINT.md)
 
-   * [Where in the world challange]
+   * [Where in the world challange](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/08.%20Where%20in%20the%20world%20challenge.md)
 
-* [Discovering Email Addresses]
+* [Discovering Email Addresses](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/09.%20Discovering%20Email%20Addresses.md)
 
 * [Password OSINT]
 
-   * [Hunting Breached Passwords]
+   * [Hunting Breached Passwords](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/10.%20Password%20OSINT.md)
 
-* [Username OSINT]
+* [Username OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/11.%20Username%20OSINT.md)
 
 * [People OSINT]
 
-   * [Searching for People]
+   * [Searching for People](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/12.%20People%20OSINT%20-%20Searching%20for%20People.md)
 
-   * [Voter Records]
+   * [Voter Records](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/13.%20People%20OSINT%20-%20Voter%20Records.md)
 
-   * [Hunting Phone Numbers]
+   * [Hunting Phone Numbers](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/14.%20People%20OSINT%20-%20Hunting%20Phone%20Nos..md)
 
-   * [Discovering Birthdates]
+   * [Discovering Birthdates](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/15.%20People%20OSINT%20-%20Discovering%20Birthdates.md)
 
-   * [Searching for Resumes]
+   * [Searching for Resumes](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/16.%20People%20OSINT%20-%20Searching%20for%20Resumes.md)
 
 * [Social Media OSINT]
 
-   * [Twitter OSINT]
+   * [Twitter OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/17.%20Social%20Media%20OSINT%20-%20Twitter.md)
 
-   * [Facebook OSINT]
+   * [Facebook OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/18.%20Social%20Media%20OSINT%20-%20Facebook.md)
 
-   * [Instagram OSINT]
+   * [Instagram OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/19.%20Social%20Media%20OSINT%20-%20Instagram.md)
 
-   * [Snapchat OSINT]
+   * [Snapchat OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/20.%20Social%20Media%20OSINT%20-%20Snapchat.md)
 
-   * [Reddit OSINT]
+   * [Reddit OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/21.%20Social%20Media%20OSINT%20-%20Reddit.md)
 
-   * [LinkedIn OSINT]
+   * [LinkedIn OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/22.%20Social%20Media%20OSINT%20-%20LinkedIn.md)
 
-   * [TikTok OSINT]
+   * [TikTok OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/23.%20Social%20Media%20OSINT%20-%20TikTok.md)
 
-* [Website OSINT]
+* [Website OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/24.%20Website%20OSINT.md)
 
-* [Buisness OSINT]
+* [Buisness OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/25.%20Hunting%20Business%20Information.md)
 
-* [Wireless OSINT]
+* [Wireless OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/26.%20Wireless%20OSINT.md)
 
-* [OSINT Lab Build]
+* OSINT Lab Build - OSINT linux VM builds. Mt prefernece is Kali with OSINT tools installed as required.
 
 * [OSINT Tools]
 
-   * [Image and Location OSINT]
+   * [Image and Location OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/27.%20OSINT%20Tools%20-%20Image%20%2B%20Location.md)
 
-   * [Emails and Breached Data]
+   * [Emails and Breached Data](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/28.%20OSINT%20Tools%20-%20Emails%20and%20Breached%20Data.md)
 
-   * [Username and Account OSINT]
+   * [Username and Account OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/29.%20OSINT%20Tools%20-%20Username%20and%20Accounts.md)
 
-   * [Phone Number OSINT]
+   * [Phone Number OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/30.%20OSINT%20Tools%20-%20Phone%20numbers.md)
 
-   * [Social Media OSINT]
+   * [Social Media OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/31.%20OSINT%20Tools%20-%20Social%20Media.md)
 
-   * [Website OSINT]
+   * [Website OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/32.%20OSINT%20Tools%20-%20Website%20OSINT.md)
 
-   * [OSINT Frameworks]
+   * [OSINT Frameworks](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/33.%20OSINT%20Tools%20-%20OSINT%20Frameworks.md)
 
-   * [Other Tools]
+* [OSINT Automation Foundations - Automating Website OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/34.%20Website%20OSINT%20-%20Automation.md)
 
-* [OSINT Automation Foundations - Automating Website OSINT]
-
-* [Writing an OSINT Report]
+* [Writing an OSINT Report](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/35.%20OSINT%20Report.md)
 
 ------------------------------------------------------------------------
 
 ## External Pentest Playbook (In Progress) - TCM Security
+Course provides methodology.
+Will be used to build methodology
 
 -----------------------------------------------
 
