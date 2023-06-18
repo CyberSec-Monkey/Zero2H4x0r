@@ -252,7 +252,7 @@ _A Monkey with a computer_
 
 * [Search Engine Operators](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/03.%20Search%20Engine%20Operators.md)
 
-* [Image OSINT]
+* Image OSINT
 
    * [Reverse Image Searching](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/04.%20Image%20OSINT%20-%20Reverse%20Image%20Search.md)
 
@@ -264,13 +264,13 @@ _A Monkey with a computer_
 
 * [Discovering Email Addresses](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/09.%20Discovering%20Email%20Addresses.md)
 
-* [Password OSINT]
+* Password OSINT
 
    * [Hunting Breached Passwords](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/10.%20Password%20OSINT.md)
 
 * [Username OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/11.%20Username%20OSINT.md)
 
-* [People OSINT]
+* People OSINT
 
    * [Searching for People](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/12.%20People%20OSINT%20-%20Searching%20for%20People.md)
 
@@ -282,7 +282,7 @@ _A Monkey with a computer_
 
    * [Searching for Resumes](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/16.%20People%20OSINT%20-%20Searching%20for%20Resumes.md)
 
-* [Social Media OSINT]
+* Social Media OSINT
 
    * [Twitter OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/17.%20Social%20Media%20OSINT%20-%20Twitter.md)
 
@@ -306,7 +306,7 @@ _A Monkey with a computer_
 
 * OSINT Lab Build - OSINT linux VM builds. Mt prefernece is Kali with OSINT tools installed as required.
 
-* [OSINT Tools]
+* OSINT Tools
 
    * [Image and Location OSINT](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/27.%20OSINT%20Tools%20-%20Image%20%2B%20Location.md)
 
@@ -329,10 +329,67 @@ _A Monkey with a computer_
 ------------------------------------------------------------------------
 
 ## External Pentest Playbook (In Progress) - TCM Security
-Course provides methodology.
-Will be used to build methodology
+Course teaches methodology
+
+Prior to Kick Off
+* [Objectives of External Pentest]
+* [Checklists]
+* [RoE]
+* [Verifying Scope]
+* [Client Communciation[
+
+Kick off
+* [Attack Strategy]
+* [Vuln Scanning]
+* [Reviewing and Extracting Information]
+
+Information Gathering / OSINT
+* [Overview]
+* [Hunting Breached Credentails]
+* [Identifying Employees and Emails]
+* [Enumerating Valid Accounts (Pre-Attack)]
+* [Other Useful info]
+
+Attacking Login Portals
+* [Overview & Strategy]
+* [Attacking O365]
+* [Attacking OWA]
+* [Attacking Other Portals]
+* [Bypassing MFA]
+
+* [Escalating Access]
+
+* [Report Writing]
+
+Common Pentest Findings
+* [Overview] 
+* [Insufficient Authentication Controls]
+8 [Weak Password Policy]
+* [Insufficient Patching]
+* [Default Credentials]
+* [Insufficient Encryption]
+* [Information Disclosure]
+* [Username Enumeration]
+* [Default Web Pages]
+* [Open Mail Relays]
+* [IKE Aggressive Mode]
+* [Unexpected Perimeter Services]
+* [Insufficient Traffic Blocking]
+* [Undetected Malicious Activity]
+* [Historical Account Compromises]
+
+Wrap up
+* [Client Debriefs]
+* [Attestation Letters]
+* [Client Retests]
 
 -----------------------------------------------
+
+### High level methodology
+
+### Detailed Methodology/plan
+
+----------------------------------------------
 
 ### PNPT Certification PASS (Comming Soon Q3 2023) - TCM Security
 
