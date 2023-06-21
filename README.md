@@ -244,7 +244,7 @@ _A Monkey with a computer_
 
 --------------------------------------------------------------------------------
 
-## OSINT (In Progress) - TCM Security
+## OSINT - TCM Security
 
 * [OSINT Overview](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/04.%20OSINT/01.%20OSINT%20Overview.md)
 
