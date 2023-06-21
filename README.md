@@ -364,7 +364,7 @@ Attacking Login Portals
 Common Pentest Findings
 * [Overview] 
 * [Insufficient Authentication Controls]
-8 [Weak Password Policy]
+* [Weak Password Policy]
 * [Insufficient Patching]
 * [Default Credentials]
 * [Insufficient Encryption]
