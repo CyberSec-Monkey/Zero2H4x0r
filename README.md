@@ -332,56 +332,86 @@ _A Monkey with a computer_
 Course teaches methodology
 
 Prior to Kick Off
-* [Objectives of External Pentest]
-* [Checklists]
-* [RoE]
-* [Verifying Scope]
-* [Client Communciation[
+* [Objectives of External Pentest](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/01.%20Prior%20to%20Kick%20Off/01.%20Objectives%20of%20External%20Pentest.md)
+
+* [Checklists](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/01.%20Prior%20to%20Kick%20Off/02.%20Checklist.md)
+
+* [Rules of Engagement (RoE)](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/01.%20Prior%20to%20Kick%20Off/03.%20Rules%20of%20Engagement%20(ROE).md)
+
+* [Verifying Scope](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/01.%20Prior%20to%20Kick%20Off/04.%20Verifying%20Scope.md)
+
+* [Client Communciation](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/01.%20Prior%20to%20Kick%20Off/05.%20Client%20Communication.md)
 
 Kick off
-* [Attack Strategy]
-* [Vuln Scanning]
-* [Reviewing and Extracting Information]
+* [Attack Strategy](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/02.%20Kick%20Off/01.%20Attack%20Strategy.md)
+
+* [Vuln Scanning](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/02.%20Kick%20Off/02.%20Vulnerability%20Scanning.md)
+
+* [Reviewing and Extracting Information](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/02.%20Kick%20Off/03.%20Reviewing%20and%20Extracting%20Information.md)
 
 Information Gathering / OSINT
-* [Overview]
-* [Hunting Breached Credentails]
-* [Identifying Employees and Emails]
-* [Enumerating Valid Accounts (Pre-Attack)]
-* [Other Useful info]
+* [Overview](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/03.%20Information%20Gathering%20%2B%20OSINT/01.%20Overview.md)
+
+* [Hunting Breached Credentails](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/03.%20Information%20Gathering%20%2B%20OSINT/02.%20Hunting%20Breached%20Credentials.md)
+
+* [Identifying Employees and Emails](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/03.%20Information%20Gathering%20%2B%20OSINT/03.%20Identifying%20Employees%20and%20Emails.md)
+
+* [Enumerating Valid Accounts (Pre-Attack)](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/03.%20Information%20Gathering%20%2B%20OSINT/04.%20Enumerating%20Valid%20Accounts%20(Pre-Attack).md)
+
+* [Other Useful info](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/03.%20Information%20Gathering%20%2B%20OSINT/05.%20Other%20Useful%20Info.md)
 
 Attacking Login Portals
-* [Overview & Strategy]
-* [Attacking O365]
-* [Attacking OWA]
-* [Attacking Other Portals]
-* [Bypassing MFA]
+* [Overview & Strategy](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/04.%20Attacking%20Login%20Portals/01.%20Overview%20%26%20Strategy.md)
 
-* [Escalating Access]
+* [Attacking O365](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/04.%20Attacking%20Login%20Portals/02.%20Attacking%20O365.md)
 
-* [Report Writing]
+* [Attacking OWA](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/04.%20Attacking%20Login%20Portals/03.%20Attacking%20OWA.md)
+
+* [Attacking Other Portals](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/04.%20Attacking%20Login%20Portals/04.%20Attacking%20Other%20Portals.md)
+
+* [Bypassing MFA](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/04.%20Attacking%20Login%20Portals/05.%20Bypassing%20MFA.md)
+
+* [Escalating Access](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/05.%20Escalating%20Access/01.%20Escalating%20Access.md)
+
+* [Report Writing](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/06.%20Report%20Writing/01.%20Report%20Writing.md)
 
 Common Pentest Findings
-* [Overview] 
-* [Insufficient Authentication Controls]
-* [Weak Password Policy]
-* [Insufficient Patching]
-* [Default Credentials]
-* [Insufficient Encryption]
-* [Information Disclosure]
-* [Username Enumeration]
-* [Default Web Pages]
-* [Open Mail Relays]
-* [IKE Aggressive Mode]
-* [Unexpected Perimeter Services]
-* [Insufficient Traffic Blocking]
-* [Undetected Malicious Activity]
-* [Historical Account Compromises]
+* [Overview](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/01.%20Overview.md)
+
+* [Insufficient Authentication Controls](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/02.%20Insufficient%20Authentication%20Controls.md)
+
+* [Weak Password Policy](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/03.%20Weak%20Password%20Policy.md)
+
+* [Insufficient Patching](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/04.%20Insufficient%20Patching.md)
+
+* [Default Credentials](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/05.%20Default%20Credentials.md)
+
+* [Insufficient Encryption](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/06.%20Insufficient%20Encryption.md)
+
+* [Information Disclosure](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/07.%20Information%20Disclosure.md)
+
+* [Username Enumeration](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/08.%20Username%20Enumeration.md)
+
+* [Default Web Pages](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/09.%20Default%20Web%20Pages.md)
+
+* [Open Mail Relays](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/10.%20Open%20Mail%20Relays.md)
+
+* [IKE Aggressive Mode](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/11.%20IKE%20Aggressive%20Mode.md)
+
+* [Unexpected Perimeter Services](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/12.%20Unexpected%20Perimeter%20Services.md)
+
+* [Insufficient Traffic Blocking](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/13.%20Insufficient%20Traffic%20Blocking.md)
+
+* [Undetected Malicious Activity](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/14.%20Undetected%20Malicious%20Activity.md)
+
+* [Historical Account Compromises](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/07.%20Common%20Pentest%20Findings/15.%20Historical%20Account%20Compromises.md)
 
 Wrap up
-* [Client Debriefs]
-* [Attestation Letters]
-* [Client Retests]
+* [Client Debriefs](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/08.%20Wrap%20Up/01.%20Client%20Debriefs.md)
+
+* [Attestation Letters](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/08.%20Wrap%20Up/02.%20Attestation%20Letters.md)
+  
+* [Client Retests](https://github.com/CyberSec-Monkey/Zero2H4x0r/blob/main/05.%20External%20Pentest%20Playbook/08.%20Wrap%20Up/03.%20Client%20Retests.md)
 
 -----------------------------------------------
 
