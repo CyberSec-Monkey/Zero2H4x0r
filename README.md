@@ -328,7 +328,7 @@ _A Monkey with a computer_
 
 ------------------------------------------------------------------------
 
-## External Pentest Playbook (In Progress) - TCM Security
+## External Pentest Playbook - TCM Security
 Course teaches methodology
 
 Prior to Kick Off
