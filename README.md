@@ -430,6 +430,8 @@ Wrap up
 
 ### Practical Web Application Secuirty and Testing (Comming Soon) - TCM Security
 
+### Practical API Hacking (comming Soon) - TCM Security
+
 ### Mobile Applicaiton Penetration Testing (Comming Soon) - TCM Security
 
 ### Python 101 & 102 For Hackers (Comming Soon) - TCM Security
