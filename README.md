@@ -426,7 +426,7 @@ Wrap up
 ----------------------------------------------
 ### Additonal Course backlog
 
-### Movement, Pivoting and Persistance (In Progress) - TCM Security
+### Movement, Pivoting and Persistance (Comming Soon) - TCM Security
 
 ### Practical Web Application Secuirty and Testing (Comming Soon) - TCM Security
 
