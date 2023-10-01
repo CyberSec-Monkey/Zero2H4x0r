@@ -421,7 +421,7 @@ Wrap up
 
 ----------------------------------------------
 
-### PNPT Certification PASS (Comming Soon Q3 2023) - TCM Security
+### PNPT Certification PASSED - TCM Security
 
 ----------------------------------------------
 ### Additonal Course backlog
